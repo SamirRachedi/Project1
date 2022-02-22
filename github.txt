@@ -1,4 +1,9 @@
+Video 6:
+
 create and upload files to github ...
+
+first clone git repo to a local repo : 
+git clone https_URL_of_git_repo local_repo
 
 git status :  Lists in red the files that have been changed, but not yet comminted to git repository 
 
@@ -13,3 +18,7 @@ git push origin main : push all changes to the origin branch in the master direc
 In git status: 
 	Changes not staged => existing files on git have been chaged but not yet pushed changes to git repo
 	untracked files => new files not yet pushed to git repo
+
+
+Video 7:
+
