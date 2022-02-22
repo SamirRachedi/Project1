@@ -2,4 +2,9 @@ create and upload files to github ...
 
 git status :  Lists in red the files that have been changed, but not yet comminted to git repository 
 
-git add file.zzz : adds changed file to git repo
+git add file.zzz : adds changed file to git branch 
+
+git commit : commits changes (confirm changes in the added files in the branch)
+	-m : Add message to the commit
+
+git push origin main : push all changes to the origin branch in the master directory of git repo (use git token code for authentication )
